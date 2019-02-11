@@ -25,7 +25,8 @@ def fourth_challenge
       :heroine_friends => [
         #your hashes here!
         {
-          :name => ""
+          :name => "Steven",
+          
         }
       ]
    }
